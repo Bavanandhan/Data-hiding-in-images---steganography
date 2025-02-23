@@ -72,7 +72,7 @@ Contributions are welcome! If you find issues or want to add new features, feel 
 📞 Contact
 For any questions, feel free to reach out:
 - 📧 Email: velbavan74@gmail.com
-- 🔗 GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- 🔗 GitHub: [[Your GitHub Profile](https://github.com/yourusername)](https://github.com/Bavanandhan)
 
 
 💡 If you find this project helpful, consider giving it a ⭐ on GitHub!
